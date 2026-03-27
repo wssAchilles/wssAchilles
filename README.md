@@ -13,6 +13,6 @@ For convenience, my package names will all use `sqz` as the signature (`example.
 
 ## 🚀 Experience & Projects
 
-* **Tencent Internship:** [在这里补充你在腾讯的实习经历、具体职责与产出]
+* **Tencent Internship:** 重构极低资源约束下的跨端引擎与内存调度，架构跨平台 UI 重构与渲染管线极限优化
 * **Dual-Drive Cognitive Calibration System:** 针对复杂认知推理任务，开发双驱动认知校准系统，旨在降低大模型在 STEM 及特定领域问答中的“幻觉”率。
 * **IoT State Synchronization Engine:** 针对物联网场景编排状态机引擎，解决分布式状态同步问题，显著提升硬件连接稳定性与 UI 一致性。
