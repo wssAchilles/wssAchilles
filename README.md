@@ -5,8 +5,8 @@ For convenience, my package names will all use `sqz` as the signature (`example.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=wssAchilles&show_icons=true&theme=default&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=wssAchilles&layout=compact&theme=default&langs_count=10" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=wssAchilles&show_icons=true&theme=default&include_all_commits=true&show=reviews,discussions_started" width="48%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=wssAchilles&layout=compact&theme=default&langs_count=8" width="48%" />
 </p>
 
 ---
